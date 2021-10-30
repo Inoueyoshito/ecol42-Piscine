@@ -1,0 +1,5 @@
+Credentials cache: API:587226CD-4D29-4AC4-9589-98EF5C6D3C4F
+        Principal: yinoue@42TOKYO.JP
+
+  Issued                Expires               Principal
+Sep 28 01:29:42 2021  Sep 28 11:29:42 2021  krbtgt/42TOKYO.JP@42TOKYO.JP
